@@ -1,6 +1,6 @@
 Package: nbaplayerstats
 Title: NBA Player Stats
-Version: 0.0.0.9000
+Version: 1.0
 Authors@R: 
     person(given = "Saniya",
            family = "Ali",
