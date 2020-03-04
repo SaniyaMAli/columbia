@@ -1,14 +1,14 @@
 Package: nbaplayerstats
-Title: What the Package Does (One Line, Title Case)
+Title: NBA Player Stats
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Saniya",
+           family = "Ali",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "saniya.ali@columbia.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+Description: This package provides information from the NBA data. The functions provide information on who the oldest player is in a certain year, who provided the most assists in a certain year, and what the correlation is between all the numerical values in the dataset in a certain year.
+License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
